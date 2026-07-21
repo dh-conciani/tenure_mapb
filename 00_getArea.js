@@ -20,7 +20,7 @@ var asset = ee.ImageCollection('projects/mapbiomas-brazil/assets/LAND-COVER/COLL
 // Asset of regions for which you want to calculate statistics
 var assetTerritories = "projects/mapbiomas-brazil/assets/ANCILLARY/IMAFLORA_MALHA_FUNDIARIA/br_malhafundiaria_2026";
 
-// Numeric attribute to index the shapefile
+// Numeric attribute to index the shapefiler
 //var attribute = "CD_Bioma";
 
 // Output csv name
@@ -56,7 +56,7 @@ print(mapbiomas)
 var pixelArea = ee.Image.pixelArea().divide(10000);
 
 // Geometry to export
-var geometry = mapbiomas.geometry();
+var geometry = ee.Image(assetTerritories).geometry();
 
 /**
  * Convert a complex ob to feature collection
