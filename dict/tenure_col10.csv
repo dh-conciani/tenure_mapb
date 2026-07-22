@@ -1,0 +1,77 @@
+string,CAR,id,level_0,id_level1,level_1
+UCPI,não,21,Áreas Protegidas/Comunitárias,1,UC
+UCUS,não,22,Áreas Protegidas/Comunitárias,1,UC
+UCUS (APA),não,23,Áreas Protegidas/Comunitárias,1,UC
+Sobreposição entre terras com regime SNUC,não,29,Áreas Protegidas/Comunitárias,1,UC
+Outras terras publicas em sobreposição com SNUC,não,39,Áreas Protegidas/Comunitárias,1,UC
+UCPI e IR privado,não,81,Áreas Protegidas/Comunitárias,1,UC
+UCUS e IR privado,não,82,Áreas Protegidas/Comunitárias,1,UC
+UCPI e Assentamento,não,83,Áreas Protegidas/Comunitárias,1,UC
+UCUS e Assentamento,não,84,Áreas Protegidas/Comunitárias,1,UC
+UCPI e Quilombo,não,85,Áreas Protegidas/Comunitárias,1,UC
+UCUS e Quilombo,não,86,Áreas Protegidas/Comunitárias,1,UC
+APA e Assentamento,não,87,Áreas Protegidas/Comunitárias,1,UC
+APA e IR Privado,não,88,Áreas Protegidas/Comunitárias,1,UC
+Outras sobreposições entre SNUC e terras privadas,não,89,Áreas Protegidas/Comunitárias,1,UC
+"SNUC, terras públicas e privadas",não,99,Áreas Protegidas/Comunitárias,1,UC
+UCPI,sim,2110,Áreas Protegidas/Comunitárias,1,UC
+UCUS,sim,2210,Áreas Protegidas/Comunitárias,1,UC
+Sobreposição entre terras com regime SNUC,sim,2910,Áreas Protegidas/Comunitárias,1,UC
+Outras terras publicas em sobreposição com SNUC,sim,3910,Áreas Protegidas/Comunitárias,1,UC
+UCPI e IR privado,sim,8110,Áreas Protegidas/Comunitárias,1,UC
+UCUS e IR privado,sim,8210,Áreas Protegidas/Comunitárias,1,UC
+UCPI e Assentamento,sim,8310,Áreas Protegidas/Comunitárias,1,UC
+UCUS e Assentamento,sim,8410,Áreas Protegidas/Comunitárias,1,UC
+UCPI e Quilombo,sim,8510,Áreas Protegidas/Comunitárias,1,UC
+UCUS e Quilombo,sim,8610,Áreas Protegidas/Comunitárias,1,UC
+APA e Assentamento,sim,8710,Áreas Protegidas/Comunitárias,1,UC
+Outras sobreposições entre SNUC e terras privadas,sim,8910,Áreas Protegidas/Comunitárias,1,UC
+"SNUC, terras públicas e privadas",sim,9910,Áreas Protegidas/Comunitárias,1,UC
+TI declarada,não,10,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada,não,11,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e UCPI,não,31,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e UCUS,não,32,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e UCPI,não,33,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e UCUS,não,34,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e APA,não,35,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e APA,não,36,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e IR privado,não,71,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e IR privado,não,72,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e Assentamento,não,73,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e Assentamento,não,74,Áreas Protegidas/Comunitárias,2,TI
+TI declarada,sim,1010,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada,sim,1110,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e UCPI,sim,3110,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e UCUS,sim,3210,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e UCPI,sim,3310,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e UCUS,sim,3410,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e APA,sim,3510,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e APA,sim,3610,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e IR privado,sim,7110,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e IR privado,sim,7210,Áreas Protegidas/Comunitárias,2,TI
+TI declarada e Assentamento,sim,7310,Áreas Protegidas/Comunitárias,2,TI
+TI não declarada e Assentamento,sim,7410,Áreas Protegidas/Comunitárias,2,TI
+Gleba pública,não,12,Área Pública,3,Gleba Pública
+Gleba pública,sim,1210,Área Pública,3,Gleba Pública
+Área militar,não,13,Área Pública,4,Área Militar
+Área militar,sim,1310,Área Pública,4,Área Militar
+IR privado,não,61,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,5,IR
+IR privado,sim,6110,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,5,IR
+APA e IR Privado,sim,8810,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,5,IR
+Quilombo,não,62,Áreas Protegidas/Comunitárias,6,Quilombo
+Quilombo,sim,6210,Áreas Protegidas/Comunitárias,6,Quilombo
+Assentamento,não,63,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,7,Assentamento
+Assentamento,sim,6310,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,7,Assentamento
+Áreas urbanas,não,41,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,8,Áreas Urbanas
+Áreas urbanas,sim,4110,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,8,Áreas Urbanas
+Massas d'agua,não,51,Não Aplica,9,Massas D'água
+Massas d'agua,sim,5110,Não Aplica,9,Massas D'água
+Áreas sem registro fundiario georreferenciado ,não,101,Áreas Sem Registro Fundiário Georreferenciado,10,Áreas Sem Registro Fundiário Georreferenciado
+UCUS (APA),sim,2310,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,11,Áreas Sem Registro Fundiário Georreferenciado com CAR
+Áreas sem registro fundiario georreferenciado ,sim,10110,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,11,Áreas Sem Registro Fundiário Georreferenciado com CAR
+Sobreposição entre terras públicas,não,19,Área Pública,99,Terras públicas sobrepostas 
+Sobreposição terras privadas,não,69,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,99,Terras privadas sobrepostas
+Outras sobreposições entre terras públicas e privadas,não,79,Área Pública,99,Terras públicas e privadas sobrepostas 
+Sobreposição entre terras públicas,sim,1910,Área Pública,99,Terras públicas sobrepostas
+Sobreposição terras privadas,sim,6910,Área Privada ou Sem Registro Fundiário Georreferenciado com CAR,99,Terras privadas sobrepostas
+Outras sobreposições entre terras públicas e privadas,sim,7910,Área Pública,99,Terras públicas e privadas sobrepostas 

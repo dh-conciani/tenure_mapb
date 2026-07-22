@@ -1,0 +1,43 @@
+categoria_fundiaria,id,car,level_0,level_1
+Terra Indígena homologada,1,não,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Terra Indígena não homologada,2,não,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Área militar,3,não,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Área Militar
+Glebas públicas,4,não,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Gleba Pública
+Glebas públicas - FPND,5,não,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Gleba Pública
+Território Quilombola declarado,6,não,Áreas Protegidas ou de Uso coletivo ,Território Quilombola
+Território Quilombola não declarado,7,não,Áreas Protegidas ou de Uso coletivo ,Território Quilombola
+Imóvel rural privado,8,não,Áreas Privadas com Registro Fundiário Georreferenciado,Imóvel Rural Privado
+Assentamento-A,9,não,Áreas Privadas com Registro Fundiário Georreferenciado,Assentamento 
+Assentamento-B,10,não,Áreas Privadas com Registro Fundiário Georreferenciado,Assentamento 
+UCUS,11,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+UCPI,12,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Imóvel rural privado e UCPI,16,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Terra Indígena homologada e UCPI,17,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Terra Indígena não homologada e UCUS,18,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Terra Indígena não homologada e UCPI,19,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Imóvel rural privado e UCUS,20,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Outras sobreposições,99,não,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Áreas urbanas,14,não,Áreas Privadas com Registro Fundiário Georreferenciado,Áreas Urbanas
+Massas d'água,15,não,Massas d'água,Massas d'água
+Áreas Sem Registro Fundiário Georreferenciado,13,não,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Sem Registro Fundiário Georreferenciado sem CAR
+Terra Indígena homologada,101,sim,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Terra Indígena não homologada,102,sim,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Área militar,103,sim,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Área Militar
+Glebas públicas,104,sim,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Gleba Pública
+Glebas públicas - FPND,105,sim,Terras Públicas ou Sem Registro Fundiário Georreferenciado,Gleba Pública
+Território Quilombola declarado,106,sim,Áreas Protegidas ou de Uso coletivo ,Território Quilombola
+Território Quilombola não declarado,107,sim,Áreas Protegidas ou de Uso coletivo ,Território Quilombola
+Imóvel rural privado,108,sim,Áreas Privadas com Registro Fundiário Georreferenciado,Imóvel Rural Privado
+Assentamento-A,109,sim,Áreas Privadas com Registro Fundiário Georreferenciado,Assentamento 
+Assentamento-B,110,sim,Áreas Privadas com Registro Fundiário Georreferenciado,Assentamento 
+UCUS,111,sim,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+UCPI,112,sim,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Imóvel rural privado e UCPI,116,sim,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Terra Indígena homologada e UCPI,117,sim,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Terra Indígena não homologada e UCUS,118,sim,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Terra Indígena não homologada e UCPI,119,sim,Áreas Protegidas ou de Uso coletivo ,Terra Indígena
+Imóvel rural privado e UCUS,120,sim,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Outras sobreposições,199,sim,Áreas Protegidas ou de Uso coletivo ,Unidade de Conservação
+Áreas urbanas,114,sim,Áreas Privadas com Registro Fundiário Georreferenciado,Áreas Urbanas 
+Massas d'água,115,sim,Massas d'água,Massas d'água
+Áreas Sem Registro Fundiário Georreferenciado,113,sim,Sem Registro Fundiário Georreferenciado com CAR,Sem Registro Fundiário Georreferenciado com CAR
